@@ -5,27 +5,34 @@ from scrapy_bloomfilter.scrapy_bloomfilter.spiders.base_spider_news import baseS
 class demoSpider(baseSpider):
 
     name = "demoSpider"
-    allowed_domains = []
-    start_urls = []
+    allowed_domains = ['demo.com']
+    start_urls = ['www.demo.com']
 
 
     def get_item_urls(self, response):
-        return ''
+        imem_urls = []
+        return imem_urls
 
     def get_thumbs(self, response):
-        return ''
+        thumbs = []
+        return thumbs
 
     def get_title(self, response):
-        return ''
+        title = ''
+        return title
 
     def get_author(self, response):
-        return ''
+        author = ''
+        return author
 
     def get_release_time(self, response):
-        return ''
+        release_time = ''
+        return release_time
 
     def get_content(self, response):
-        return ''
+        content = ''
+        return content
 
     def get_inner_lst(self, response, content=''):
-        return ''
+        inner_lst = []
+        return inner_lst

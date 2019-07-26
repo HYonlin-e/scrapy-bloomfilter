@@ -14,10 +14,10 @@
 ## requirement.txt
 
 ```
-scrapy
-scrapy-redis-bloomfilter
-redis
-dateutil
+scrapy=1.3.3
+scrapy-redis-bloomfilter=0.7.0
+redis=3.2.1
+dateutil=2.4.1
 ```
 
 
@@ -27,7 +27,7 @@ dateutil
 - 如何快速开发：
 
   ```
-  # 以新闻资讯类爬虫为例
+  # 以新闻资讯类爬虫为例，只需继承baseSpider并重写解析方法
   # demo_spider_news.py
   from scrapy_bloomfilter.scrapy_bloomfilter.spiders.base_spider_news import baseSpider
   
@@ -64,7 +64,9 @@ dateutil
   
 
 - 为什么不直接用scrapy-redis-bloomfilter
-  - scrapy-redis-bloomfilter默认使用的是scrapy-redis的调度器，更注重的是分布式爬取，而且为了达到某些常见需求（如新闻资讯类爬虫，文章列表页面url不去重，文章页面url去重）必须以master-slave形式开发爬虫使得开发更繁杂。
-
+  
+- scrapy-redis-bloomfilter默认使用的是scrapy-redis的调度器，更注重的是分布式爬取，而且为了达到某些常见需求（如新闻资讯类爬虫，文章列表页面url不去重，文章页面url去重）必须以master-slave形式开发爬虫使得开发更繁杂。
+  
 - 为什么需要scrapy-redis-bloomfilter
+  
   - 主要是用到其中的bloomfiler实现，避免重复造轮子。
