@@ -1,6 +1,6 @@
 # scrapy-bloomfilter
 
-​       scrapy-bloomfilter是一个用bloomfilter（布隆过滤器）作为去重工具的scrapy项目，并提供了模板化的基类爬虫。
+​       scrapy-bloomfilter是一个用bloomfilter（布隆过滤器）作为去重工具的轻量级scrapy项目，并提供了模板化的基类爬虫。
 
 
 
@@ -8,6 +8,7 @@
 
 - 使用bloomfilter（布隆过滤器）作为去重工具。
 - 提供了模板化的基类爬虫，让爬虫开发只需专注页面解析，实现爬虫快速开发（目前可供选择的有新闻资讯类）。
+- 轻量级，适用于每天少量更新的数据源。
 
 
 
