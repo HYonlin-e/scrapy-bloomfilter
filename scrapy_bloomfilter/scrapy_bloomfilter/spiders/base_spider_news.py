@@ -79,8 +79,10 @@ class baseSpider(Spider):
         art_item["content"] = self.un_escape(content)
         art_item["inner_imgs"] = inner_lst
 
-        self.itemPrint(art_item)
-        yield art_item
+        if self.filter(response, art_item):
+            logging.info(f"filter item:{art_item['source_url']}")
+            self.itemPrint(art_item)
+            yield art_item
 
     def get_item_urls(self, response):
         return []
@@ -172,3 +174,12 @@ class baseSpider(Spider):
         # 去注释
         html = re.sub("<!--.*?-->", "", html)
         return html
+
+    def filter(self, response, art_item):
+        '''
+        根据response或art_item信息过滤掉某些item
+        :param response:
+        :param art_item:
+        :return: True：yield出信息到下一步骤，False：过滤这条数据
+        '''
+        return True

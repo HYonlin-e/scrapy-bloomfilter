@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b162cd4-702e-4d64-b7a2-ced3123bff10" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/requirement.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/scrapy-bloomfilter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scrapy-bloomfilter.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_bloomfilter/scrapy_bloomfilter/spiders/base_spider_news.py" beforeDir="false" afterPath="$PROJECT_DIR$/scrapy_bloomfilter/scrapy_bloomfilter/spiders/base_spider_news.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,21 +14,53 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scrapy_bloomfilter/scrapy_bloomfilter/spiders/base_spider_news.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" selection-start-line="9" selection-end-line="10" />
+            <state relative-caret-position="399">
+              <caret line="21" column="54" lean-forward="true" selection-start-line="21" selection-start-column="54" selection-end-line="21" selection-end-column="54" />
+              <folding>
+                <element signature="e#16#50#0" expanded="true" />
+                <element signature="e#620#884#0" />
+                <element signature="e#620#756#1" />
+                <element signature="e#925#1440#0" />
+                <element signature="e#925#1062#1" />
+                <element signature="e#1221#1440#0" />
+                <element signature="e#1228#1283#0" />
+                <element signature="e#1485#1604#1" />
+                <element signature="e#2559#2568#0" />
+                <element signature="e#2614#2773#0" />
+                <element signature="e#2614#2755#1" />
+                <element signature="e#2818#2953#0" />
+                <element signature="e#2818#2935#1" />
+                <element signature="e#3014#3023#0" />
+                <element signature="e#3068#3077#0" />
+                <element signature="e#3123#3132#0" />
+                <element signature="e#3184#3193#0" />
+                <element signature="e#3240#3249#0" />
+                <element signature="e#3299#3474#0" />
+                <element signature="e#3299#3373#1" />
+                <element signature="e#3523#3574#0" />
+                <element signature="e#3615#4165#0" />
+                <element signature="e#3615#3782#1" />
+                <element signature="e#4126#4165#0" />
+                <element signature="e#4200#4694#0" />
+                <element signature="e#4200#4326#1" />
+                <element signature="e#4378#4677#0" />
+                <element signature="e#4441#4504#0" />
+                <element signature="e#4729#5180#0" />
+                <element signature="e#5236#5409#0" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/requirement.txt">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scrapy_bloomfilter/scrapy_bloomfilter/spiders/demo_spider_news.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+            <state relative-caret-position="418">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -58,6 +92,8 @@
         <option value="$PROJECT_DIR$/scrapy_bloomfilter/scrapy_bloomfilter/tools/spiders_func.py" />
         <option value="$PROJECT_DIR$/scrapy_bloomfilter/scrapy_bloomfilter/spiders/base_spider.py" />
         <option value="$PROJECT_DIR$/requirement.txt" />
+        <option value="$PROJECT_DIR$/scrapy_bloomfilter/scrapy_bloomfilter/spiders/demo_spider_news.py" />
+        <option value="$PROJECT_DIR$/scrapy_bloomfilter/scrapy_bloomfilter/spiders/base_spider_news.py" />
       </list>
     </option>
   </component>
@@ -78,6 +114,24 @@
             <path>
               <item name="scrapy-bloomfilter" type="b2602c69:ProjectViewProjectNode" />
               <item name="scrapy-bloomfilter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scrapy-bloomfilter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scrapy-bloomfilter" type="462c0819:PsiDirectoryNode" />
+              <item name="scrapy_bloomfilter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scrapy-bloomfilter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scrapy-bloomfilter" type="462c0819:PsiDirectoryNode" />
+              <item name="scrapy_bloomfilter" type="462c0819:PsiDirectoryNode" />
+              <item name="scrapy_bloomfilter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scrapy-bloomfilter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scrapy-bloomfilter" type="462c0819:PsiDirectoryNode" />
+              <item name="scrapy_bloomfilter" type="462c0819:PsiDirectoryNode" />
+              <item name="scrapy_bloomfilter" type="462c0819:PsiDirectoryNode" />
+              <item name="spiders" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -116,26 +170,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1564125208094</updated>
-      <workItem from="1564125219323" duration="7878000" />
+      <workItem from="1564125219323" duration="9476000" />
+      <workItem from="1564371254438" duration="3322000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7878000" />
+    <option name="totallyTimeSpent" value="12798000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1886388" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19131833" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" weight="0.8124306" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -143,42 +192,29 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Remote Host" />
-      <window_info anchor="right" id="R Packages" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="R Graphics" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.8124306" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="3" />
+      <window_info anchor="right" id="SciView" order="4" />
+      <window_info anchor="right" id="R Graphics" order="5" />
+      <window_info anchor="right" id="R Packages" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/scrapy_bloomfilter/scrapy_bloomfilter/tools/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scrapy_bloomfilter/scrapy_bloomfilter/tools/spiders_func.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="48" selection-start-line="48" selection-end-line="64" selection-end-column="12" />
-          <folding>
-            <element signature="e#25#39#0" expanded="true" />
-            <element signature="e#2251#2525#0" />
-            <element signature="e#2603#3033#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scrapy_bloomfilter/scrapy_bloomfilter/tools/html_escape.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" selection-start-line="6" selection-end-line="15" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy_bloomfilter/scrapy_bloomfilter/tools/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/scrapy_bloomfilter/scrapy_bloomfilter/tools/spiders_func.py" />
+    <entry file="file://$PROJECT_DIR$/scrapy_bloomfilter/scrapy_bloomfilter/tools/html_escape.py" />
     <entry file="file://$PROJECT_DIR$/scrapy_bloomfilter/scrapy_bloomfilter/pipelines.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -199,17 +235,56 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scrapy_bloomfilter/scrapy_bloomfilter/spiders/base_spider_news.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" selection-start-line="9" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/requirement.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
-          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+          <caret line="3" column="14" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy_bloomfilter/scrapy_bloomfilter/spiders/demo_spider_news.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy_bloomfilter/scrapy_bloomfilter/spiders/base_spider_news.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="54" lean-forward="true" selection-start-line="21" selection-start-column="54" selection-end-line="21" selection-end-column="54" />
+          <folding>
+            <element signature="e#16#50#0" expanded="true" />
+            <element signature="e#620#884#0" />
+            <element signature="e#620#756#1" />
+            <element signature="e#925#1440#0" />
+            <element signature="e#925#1062#1" />
+            <element signature="e#1221#1440#0" />
+            <element signature="e#1228#1283#0" />
+            <element signature="e#1485#1604#1" />
+            <element signature="e#2559#2568#0" />
+            <element signature="e#2614#2773#0" />
+            <element signature="e#2614#2755#1" />
+            <element signature="e#2818#2953#0" />
+            <element signature="e#2818#2935#1" />
+            <element signature="e#3014#3023#0" />
+            <element signature="e#3068#3077#0" />
+            <element signature="e#3123#3132#0" />
+            <element signature="e#3184#3193#0" />
+            <element signature="e#3240#3249#0" />
+            <element signature="e#3299#3474#0" />
+            <element signature="e#3299#3373#1" />
+            <element signature="e#3523#3574#0" />
+            <element signature="e#3615#4165#0" />
+            <element signature="e#3615#3782#1" />
+            <element signature="e#4126#4165#0" />
+            <element signature="e#4200#4694#0" />
+            <element signature="e#4200#4326#1" />
+            <element signature="e#4378#4677#0" />
+            <element signature="e#4441#4504#0" />
+            <element signature="e#4729#5180#0" />
+            <element signature="e#5236#5409#0" />
+          </folding>
         </state>
       </provider>
     </entry>
